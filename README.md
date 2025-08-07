@@ -5,7 +5,7 @@
 
 ## Student Health and Wellness Coding Challenge
 
-Welcome to the Student Health and Wellness coding challenge. Submission instructions are listed below. The deadline to submit this challenge is **Thursday August 7th, 9:00 AM**. We are looking for effort and creativity, and the challenge is just part of our discussion with you during the interview, so don’t worry if your solution is *hacky* or even if it doesn’t work, we want to see it!
+Welcome to the Student Health and Wellness coding challenge. Submission instructions are listed below. The deadline to submit this challenge is **Thursday August 14th, 9:00 AM**. We are looking for effort and creativity, and the challenge is just part of our discussion with you during the interview, so don’t worry if your solution is *hacky* or even if it doesn’t work, we want to see it!
 
 
 ## The Challenge
