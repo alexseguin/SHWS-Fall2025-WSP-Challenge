@@ -64,15 +64,11 @@ You will be evaluated on:
 
 Please submit your solution in the 2025 Fall interview GitHub repository via GitHub Issue.
 
-1. Navigate to the following link (https://github.com/alexseguin/SHWS-Fall2025-WSP-Challenge/issues/new) or:
-   1. Navigate to the challenge repository
-   2. Click **Issues**
-   3. Click **New Issue**
-2. Click **Get Started** for Solution Submission
-3. Change `YOUR_NAME` to your full name in the title field
-4. Fill out the form
-5. Click **Submit New Issue**
-6. Done! Thank you for completing the challenge, we look forward to discussing your solution with you during the interview. 🎉
+1. Navigate to the following link: https://github.com/alexseguin/SHWS-Fall2025-WSP-Challenge/issues/new?template=get-started.md
+2. Change `YOUR_NAME` to your full name in the title field
+3. Fill out the form
+4. Click **Submit New Issue**
+5. Done! Thank you for completing the challenge, we look forward to discussing your solution with you during the interview. 🎉
 
 If you have any questions, you can email Alexandre Seguin at asegui8@uottawa.ca
 
